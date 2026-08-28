@@ -1,7 +1,7 @@
 ## Hi, there is @ZhuNemo 👋
 
 ---
-[![提问题](https://img.shields.io/badge/有问题-请直接提Issue-blue?style=flat-square&logo=github)](https://github.com/ZhuNemo/ZhuNemo/issues)
+[![提问题](https://img.shields.io/badge/有问题-请直接提Issue-blue?style=flat-square&logo=github)](https://github.com/ZhuNemo/locus-earth/issues)
 [![个人主页](https://img.shields.io/badge/深入交流-看我项目-purple?style=flat-square&logo=github)](https://github.com/ZhuNemo)
 
 ---
