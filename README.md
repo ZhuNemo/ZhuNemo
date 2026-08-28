@@ -7,9 +7,13 @@
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Nemo;Building+3D+Earth+with+Cesium;Diving+deep+into+the+ocean+of+code;" alt="Typing SVG" />
+  
+  <details>
+  本人常年潜水，邮箱会被鲨鱼吃掉 🦈，有事请直接发起 Issue！
+  </details>
+  
 </p>
 
-本人常年潜水，邮箱会被鲨鱼吃掉 🦈，有事请直接发起 Issue！
 <details>
   
   <summary>🧜‍♂️ 潜到深海看看我的“隐藏技能”</summary>
