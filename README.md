@@ -16,16 +16,13 @@
   
   <summary>🧜‍♂️ 潜到深海看看我的“隐藏技能”</summary>
   
-  🐠 **我是谁：** 一名学习之余做前端网页的萌新。
-  🦑 **常用武器：** JavaScript, HTML5, CSS3, AI assistant。
-  🐙 **目前状态：** 在代码的深海区潜水中，正在构建 `locus-earth`。
+  <p>🐠 **我是谁：** 一名学习之余做前端网页的萌新</p>
+  <p>🦑 **常用武器：** JavaScript, HTML5, CSS3, AI assistant🤫</p>
+  <p>🐙 **目前状态：** 在代码的深海区潜水中，正在构建 `locus-earth`</p>
   
 </details>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhuNemo&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuNemo&layout=compact&theme=dark&hide_border=true" />
-</div>
+
 
 ### 🛰️ 旗舰项目 (Flagship Project)
 <details>
