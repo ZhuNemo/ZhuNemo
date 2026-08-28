@@ -8,9 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Nemo;Building+3D+Earth+with+Cesium;Diving+deep+into+the+ocean+of+code;" alt="Typing SVG" />
   
-  <details>
   本人常年潜水，邮箱会被鲨鱼吃掉 🦈，有事请直接发起 Issue！
-  </details>
   
 </p>
 
@@ -19,7 +17,7 @@
   <summary>🧜‍♂️ 潜到深海看看我的“隐藏技能”</summary>
   
   > 🐠 **我是谁：** 一名学习之余做前端网页的萌新。
-  > 🦑 **常用武器：** JavaScript, Cesium, WebGL, Vue, React.
+  > 🦑 **常用武器：** JavaScript, HTML5, CSS3, AI assistant。
   > 🐙 **目前状态：** 在代码的深海区潜水中，正在构建 `locus-earth`。
   
 </details>
@@ -29,13 +27,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuNemo&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-### 🛰️ 旗舰项目（Flagship Project）
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhuNemo&repo=locus-earth&theme=dark&hide_border=true)](https://github.com/ZhuNemo/locus-earth)
+### 🛰️ 旗舰项目 (Flagship Project)
+<details>
+  也是唯一的公开项目……
+</details>
 
-> 基于 **Cesium Ion** 的交互式 3D 地球，点击去探索我的造物主世界。
-
----
-<img src="https://capsule-render.vercel.app/api/type=waving&color=0:2EA8FF,100:001a33&height=100&section=footer">
+<table>
+  <tr>
+    <td>
+      <strong>Locus Earth</strong><br>
+      基于 Cesium Ion 的交互式 3D 地球，点击去探索我的造物主世界。
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ZhuNemo/ZhuNemo/main/assets/locus-earth-preview.png" width="150">
+    </td>
+    <td>
+    [点击前往查看……](https://github.com/ZhuNemo/locus-earth)
+    </td>
+  </tr>
+</table>
 
 <!--
 **ZhuNemo/ZhuNemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
