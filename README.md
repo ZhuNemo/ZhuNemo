@@ -16,9 +16,9 @@
   
   <summary>🧜‍♂️ 潜到深海看看我的“隐藏技能”</summary>
   
-  <p>🐠 **我是谁：** 一名学习之余做前端网页的萌新</p>
-  <p>🦑 **常用武器：** JavaScript, HTML5, CSS3, AI assistant🤫</p>
-  <p>🐙 **目前状态：** 在代码的深海区潜水中，正在构建 `locus-earth`</p>
+  🐠 **我是谁：** 一名学习之余做前端网页的萌新
+  <br>🦑 **常用武器：** JavaScript, HTML5, CSS3, AI assistant🤫
+  <br>🐙 **目前状态：** 在代码的深海区潜水中，正在构建 `locus-earth`
   
 </details>
 
@@ -34,7 +34,7 @@
 </details>
 
 [前往查看](https://github.com/ZhuNemo/locus-earth)
-> 基于 **Cesium Ion** 的交互式 3D 地球，点击去探索我的造物主世界。
+> 基于 **Cesium Ion** 的交互式 3D 地球，[点击](zhunemo.github.io/locus-earth)去探索我的造物主世界。
 
 <!--
 **ZhuNemo/ZhuNemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
