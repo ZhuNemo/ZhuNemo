@@ -27,9 +27,9 @@
 ### 🛰️ 旗舰项目 (Flagship Project)
 <details>
   
-  <summary>其实</summary>
+  <summary>……</summary>
   
-  也是唯一的公开项目……
+  PS其实也是唯一的公开项目……
   
 </details>
 
