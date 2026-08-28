@@ -34,7 +34,7 @@
 </details>
 
 [前往查看](https://github.com/ZhuNemo/locus-earth)
-> 基于 **Cesium Ion** 的交互式 3D 地球，[点击](zhunemo.github.io/locus-earth)去探索我的造物主世界。
+> 基于 **Cesium Ion** 的交互式 3D 地球，[点击](https://zhunemo.github.io/locus-earth/)去探索我的造物主世界。
 
 <!--
 **ZhuNemo/ZhuNemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
