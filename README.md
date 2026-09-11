@@ -1,4 +1,4 @@
-## Hi, there is @ZhuNemo 👋
+## Hi, this is @ZhuNemo 👋
 
 ---
 [![提问题](https://img.shields.io/badge/有问题-请直接提Issue-blue?style=flat-square&logo=github)](https://github.com/ZhuNemo/locus-earth/issues)
@@ -16,9 +16,9 @@
   
   <summary>🧜‍♂️ 潜到深海看看我的“隐藏技能”</summary>
   
-  🐠 **我是谁：** 一名学习之余做一些静态网页的中国中学生
-  <br>🦑 **常用武器：** JavaScript, HTML5, CSS3, AI assistant🤫
-  <br>🐙 **目前状态：** 学业繁忙，偶尔在代码的深海区潜水，正在构建 `locus-earth`
+  🐠 **我是谁：** 一名学习之余做一些静态网页的中国中学生🚀
+  <br>🦑 **技术栈：** JavaScript, HTML5, CSS3, AI assistant🤖
+  <br>🐙 **目前状态：** 学业繁忙，偶尔在代码的深海区潜水，正在构建 `locus-earth`🤓
   
 </details>
 
@@ -29,7 +29,7 @@
   
   <summary>……</summary>
   
-  PS其实也是唯一的公开项目
+  PS其实也是目前唯一的公开项目😂
   
 </details>
 
