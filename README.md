@@ -4,6 +4,8 @@
 [![提问题](https://img.shields.io/badge/有问题-请直接提Issue-blue?style=flat-square&logo=github)](https://github.com/ZhuNemo/locus-earth/issues)
 [![个人主页](https://img.shields.io/badge/深入交流-看我项目-purple?style=flat-square&logo=github)](https://github.com/ZhuNemo)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ZhuNemo/badge.svg)](https://hub.xerj.org/contributors/ZhuNemo)
+
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Nemo;Building+3D+Earth+with+Cesium;Diving+deep+into+the+ocean+of+code;" alt="Typing SVG" />
